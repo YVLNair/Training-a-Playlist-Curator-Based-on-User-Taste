@@ -2,7 +2,11 @@
 
 ML Mini Project (UE24CS352A) · PES University
 
-**Team: 26**  Sarang S Nair : PES2UG24CS447  Shreya C Rao : PES2UG24CS481
+**Team: 26**  
+
+Sarang S Nair : PES2UG24CS447 
+
+Shreya C Rao : PES2UG24CS481
 
 This repository reproduces the results of Awadelkarim & Coelho (Stanford, 2018),
 *"Training a Playlist Curator Based on User Taste"*, and extends it with one additional model
