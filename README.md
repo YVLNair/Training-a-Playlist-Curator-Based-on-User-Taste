@@ -2,7 +2,7 @@
 
 ML Mini Project (UE24CS352A) · PES University
 
-**Team:** 26
+**Team: 26** 
 Sarang S Nair : PES2UG24CS447
 Shreya C Rao : PES2UG24CS481
 
@@ -21,7 +21,6 @@ Spotify-curated playlists it belongs to (13-class classification).
 .
 ├── playlist_curator.ipynb   # the whole project: data build, Part 1 (reproduce), Part 2 (XGBoost), comparison
 ├── README.md              
-├── requirements.txt         # Python dependencies
 ├── writeup.pdf              # one-page project write-up
 └── results/                 # created when the notebook runs (CSV tables + summary.json)
 ```
